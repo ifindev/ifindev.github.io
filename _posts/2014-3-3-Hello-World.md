@@ -1,10 +1,16 @@
 ---
 layout: post
-title: You're up and running!
+title: First Post!
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hello, world!
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Finally moving on from Wordpress into Jekyll. The reason for moving on from wordpress into Jekyll is because, I was too lazy to set up my own wordpress web hosting and also the `wordpress.com` blog was not going to let me to use the syntax highlighter for writing down a code snippet. So yeah, that's way I'm moving into static Jekyll page which also forked from other people GitHub repo. I just want to write!
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+So, to commemorate this beginning, let's write a simple code snippet :) 
+
+```javascript
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+```
