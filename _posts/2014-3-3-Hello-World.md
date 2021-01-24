@@ -14,3 +14,7 @@ So, to commemorate this beginning, let's write a simple code snippet :)
 /* Some pointless Javascript */
 var rawr = ["r", "a", "w", "r"];
 ```
+<pre class="highlight"><code>
+/* Some pointless Javascript */
+var rawr = ["r", "a", "w", "r"];
+</code></pre>
